@@ -1,0 +1,1 @@
+Working repository for a project to add dual channel support to Quisk for Afredri AFE82XX.
